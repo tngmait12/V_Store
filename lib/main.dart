@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:v_store/features/authentication/screens/onboarding.dart';
 import 'app.dart';
-// asdasdasdas
+// asdasdasdas sadsadsada
 // flutter pub run flutter_native_splash:create --path=splash.yaml
 // flutter pub run flutter_native_splash:remove
 void main(){
