@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:v_store/features/authentication/screens/onboarding.dart';
-// bla bla bla j cx dc blabla bloblo
+import 'app.dart';
+
 // flutter pub run flutter_native_splash:create --path=splash.yaml
 // flutter pub run flutter_native_splash:remove
 void main(){
@@ -18,7 +19,6 @@ class App extends StatelessWidget {
       theme: ThemeData(),
       darkTheme: ThemeData(),
       home: const OnBoardingScreen(),
-      // bla bla asdasdasdas
     );
   }
 }
